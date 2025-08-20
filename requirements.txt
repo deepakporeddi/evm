@@ -1,3 +1,12 @@
-alembic==1.16.4
-fastapi[all]
-uvicorn==0.35.0
+fastapi
+uvicorn[standard]
+pydantic
+pydantic[email]
+SQLModel
+sqlalchemy
+asyncpg
+alembic
+pytest
+httpx
+pytz
+python-dotenv
