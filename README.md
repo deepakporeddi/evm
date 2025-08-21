@@ -3,7 +3,7 @@ Event-Management Project - Async SQLModel (Postgres + Docker)
 This repo is patched to use async SQLModel with asyncpg (Postgres) and includes Docker + docker-compose.
 
 Quickstart (Docker):
-1. docker-compose up --build -d
+1. docker compose up --build -d
 2. API: http://localhost:8000/api, Swagger: http://localhost:8000/docs
 
 Local quickstart:
