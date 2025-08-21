@@ -10,3 +10,4 @@ pytest
 httpx
 pytz
 python-dotenv
+psycopg2-binary
